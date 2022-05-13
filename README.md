@@ -5,10 +5,10 @@ Repository to manage Proxmox setup
 My objective in building this repository to consolidate all the different sources / instructions I used to standup proxmox. 
 
 # Hardware
-Server:  DELL r710 (on-premise)
-RAM: 144GB
-CPU:  XEON x 2
-Cores:  16
+- Server:  DELL r710 (on-premise)
+- RAM: 144GB
+- CPU:  XEON x 2
+- Cores:  16<br>
 
 
 # Instructions to Setup
