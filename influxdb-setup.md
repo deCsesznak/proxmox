@@ -17,5 +17,3 @@ OS: Debian
 7.     ufw allow ssh
 8.     ufw allow 8086/tcp
 
-## Resources I Found Helpful
-- [Use InfluxDB 2 as a Metric Server for Proxmox](https://saelzler.com/tech/use-influxdb-2-as-a-metric-server-for-proxmox/)
